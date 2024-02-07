@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/stopify_clone/static/css/main.2581055f.css",
+    "main.js": "/stopify_clone/static/js/main.6fd5ff81.js",
+    "index.html": "/stopify_clone/index.html",
+    "main.2581055f.css.map": "/stopify_clone/static/css/main.2581055f.css.map",
+    "main.6fd5ff81.js.map": "/stopify_clone/static/js/main.6fd5ff81.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2581055f.css",
+    "static/js/main.6fd5ff81.js"
+  ]
+}
